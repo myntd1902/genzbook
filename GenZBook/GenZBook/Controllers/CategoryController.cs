@@ -33,6 +33,7 @@ namespace GenZBook.Controllers
             {
                 _db.Categories.Add(obj);
                 _db.SaveChanges();
+                TempData["success"] = "Thêm sản phẩm thành công!";
                 return RedirectToAction("Index"); 
             }
             return View(obj);
@@ -61,6 +62,7 @@ namespace GenZBook.Controllers
             {
                 _db.Categories.Update(obj);
                 _db.SaveChanges();
+                TempData["success"] = "Cập nhật sản phẩm thành công!";
                 return RedirectToAction("Index");
             }
             return View(obj);
@@ -88,6 +90,7 @@ namespace GenZBook.Controllers
                 return NotFound();
             _db.Categories.Remove(obj);
             _db.SaveChanges();
+            TempData["success"] = "Xóa sản phẩm thành công!";
             return RedirectToAction("Index");    
         }
     }
