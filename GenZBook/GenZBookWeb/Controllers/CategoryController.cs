@@ -7,14 +7,14 @@ namespace GenZBook.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ICategoryRepository _db;
-        public CategoryController(ICategoryRepository db)
+        private readonly IUnitOfWork _unitOfWork;
+        public CategoryController(IUnitOfWork unitOfWork)
         {
-                _db = db;
+            _unitOfWork = unitOfWork;
         }
         public IActionResult Index()
         {
-            IEnumerable<Category> objCategoryList = _db.GetAll();
+            IEnumerable<Category> objCategoryList = _unitOfWork.Category.GetAll();
             return View(objCategoryList);
         }
 
@@ -32,8 +32,8 @@ namespace GenZBook.Controllers
                 ModelState.AddModelError("Name", "Thứ tự không thể trùng với tên");
             if (ModelState.IsValid)
             {
-                _db.Add(obj);
-                _db.Save();
+                _unitOfWork.Category.Add(obj);
+                _unitOfWork.Save();
                 TempData["success"] = "Thêm sản phẩm thành công!";
                 return RedirectToAction("Index");
             }
@@ -45,7 +45,7 @@ namespace GenZBook.Controllers
         {
             if (id == null || id == 0)
                 return NotFound();
-            var categoryFromDbFirst = _db.GetFirstOrDefault(c => c.Id == id);
+            var categoryFromDbFirst = _unitOfWork.Category.GetFirstOrDefault(c => c.Id == id);
             if (categoryFromDbFirst == null)
                 return NotFound();
             return View(categoryFromDbFirst);
@@ -59,8 +59,8 @@ namespace GenZBook.Controllers
                 ModelState.AddModelError("Name", "Thứ tự không thể trùng với tên");
             if (ModelState.IsValid)
             {
-                _db.Update(obj);
-                _db.Save();
+                _unitOfWork.Category.Update(obj);
+                _unitOfWork.Save();
                 TempData["success"] = "Cập nhật sản phẩm thành công!";
                 return RedirectToAction("Index");
             }
@@ -72,7 +72,7 @@ namespace GenZBook.Controllers
         {
             if (id == null || id == 0)
                 return NotFound();
-            var categoryFromDbFirst = _db.GetFirstOrDefault(c => c.Id == id);
+            var categoryFromDbFirst = _unitOfWork.Category.GetFirstOrDefault(c => c.Id == id);
             if (categoryFromDbFirst == null)
                 return NotFound();
             return View(categoryFromDbFirst);
@@ -82,11 +82,11 @@ namespace GenZBook.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult DeletePOST(int? id)
         {
-            var obj = _db.GetFirstOrDefault(c => c.Id == id);
+            var obj = _unitOfWork.Category.GetFirstOrDefault(c => c.Id == id);
             if (obj == null)
                 return NotFound();
-            _db.Remove(obj);
-            _db.Save();
+            _unitOfWork.Category.Remove(obj);
+            _unitOfWork.Save();
             TempData["success"] = "Xóa sản phẩm thành công!";
             return RedirectToAction("Index");    
         }
