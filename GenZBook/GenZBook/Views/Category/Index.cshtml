@@ -1,6 +1,6 @@
 ﻿@model IEnumerable<Category>
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "DANH SÁCH";
 }
 
 <div class="container p-3">
@@ -10,7 +10,7 @@
             <hr />
         </div>
         <div class="col-6 text-end">
-            <a asp-controller="Category" asp-action="Create" class="btn btn-outline-light" style="width:150px">
+            <a asp-controller="Category" asp-action="Create" class="btn btn-outline-primary" style="width:150px">
                 <i class="bi bi-clipboard-plus-fill"> &nbsp; Thêm</i>
             </a>
         </div>
@@ -27,7 +27,7 @@
                 THỨ TỰ
             </th>
             <th>
-
+                <i class="bi bi-activity"></i>
             </th>
         </tr>
     </thead>

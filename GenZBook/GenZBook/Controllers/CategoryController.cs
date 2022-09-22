@@ -1,4 +1,4 @@
-﻿using GenZBook.Data;
+﻿using GenZBook.DataAccess;
 using GenZBook.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -34,7 +34,7 @@ namespace GenZBook.Controllers
                 _db.Categories.Add(obj);
                 _db.SaveChanges();
                 TempData["success"] = "Thêm sản phẩm thành công!";
-                return RedirectToAction("Index"); 
+                return RedirectToAction("Index");
             }
             return View(obj);
         }

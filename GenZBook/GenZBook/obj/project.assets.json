@@ -3546,6 +3546,32 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "GenZBook.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GenZBook.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9"
+        },
+        "compile": {
+          "bin/placeholder/GenZBook.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GenZBook.DataAccess.dll": {}
+        }
+      },
+      "GenZBook.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GenZBook.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GenZBook.Models.dll": {}
+        }
       }
     }
   },
@@ -10024,10 +10050,21 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "GenZBook.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../GenZBook.DataAccess/GenZBook.DataAccess.csproj",
+      "msbuildProject": "../GenZBook.DataAccess/GenZBook.DataAccess.csproj"
+    },
+    "GenZBook.Models/1.0.0": {
+      "type": "project",
+      "path": "../GenZBook.Models/GenZBook.Models.csproj",
+      "msbuildProject": "../GenZBook.Models/GenZBook.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "GenZBook.DataAccess >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 6.0.9",
       "Microsoft.EntityFrameworkCore >= 6.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.9",
@@ -10043,9 +10080,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project ASP.NET Core MVC (.NET 6)\\GenZBook\\GenZBook\\GenZBook.csproj",
-      "projectName": "GenZBook",
-      "projectPath": "D:\\Project ASP.NET Core MVC (.NET 6)\\GenZBook\\GenZBook\\GenZBook.csproj",
+      "projectUniqueName": "D:\\Project ASP.NET Core MVC (.NET 6)\\GenZBook\\GenZBook\\GenZBookWeb.csproj",
+      "projectName": "GenZBookWeb",
+      "projectPath": "D:\\Project ASP.NET Core MVC (.NET 6)\\GenZBook\\GenZBook\\GenZBookWeb.csproj",
       "packagesPath": "C:\\Users\\myntd\\.nuget\\packages\\",
       "outputPath": "D:\\Project ASP.NET Core MVC (.NET 6)\\GenZBook\\GenZBook\\obj\\",
       "projectStyle": "PackageReference",
@@ -10069,7 +10106,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Project ASP.NET Core MVC (.NET 6)\\GenZBook\\GenZBook.DataAccess\\GenZBook.DataAccess.csproj": {
+              "projectPath": "D:\\Project ASP.NET Core MVC (.NET 6)\\GenZBook\\GenZBook.DataAccess\\GenZBook.DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

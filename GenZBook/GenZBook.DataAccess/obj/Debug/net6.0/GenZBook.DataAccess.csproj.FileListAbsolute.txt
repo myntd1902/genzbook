@@ -1,0 +1,17 @@
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\bin\Debug\net6.0\GenZBook.DataAccess.deps.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\bin\Debug\net6.0\GenZBook.DataAccess.runtimeconfig.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\bin\Debug\net6.0\GenZBook.DataAccess.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\bin\Debug\net6.0\GenZBook.DataAccess.pdb
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\bin\Debug\net6.0\GenZBook.Models.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\bin\Debug\net6.0\GenZBook.Models.pdb
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\GenZBook.DataAccess.csproj.AssemblyReference.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\GenZBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\GenZBook.DataAccess.AssemblyInfoInputs.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\GenZBook.DataAccess.AssemblyInfo.cs
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\GenZBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\GenZBook.DataAccess.csproj.CopyComplete
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\GenZBook.DataAccess.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\refint\GenZBook.DataAccess.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\GenZBook.DataAccess.pdb
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\GenZBook.DataAccess.genruntimeconfig.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.DataAccess\obj\Debug\net6.0\ref\GenZBook.DataAccess.dll

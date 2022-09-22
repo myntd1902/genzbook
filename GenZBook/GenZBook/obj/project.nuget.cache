@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dAHQRR8gzZWCaHcAsPF4BLaoQ+oMJxVewrP4Y7SWBe+PxVzyqPmMK90K4VVJcNhva0pzsAr50DN25Bom6mIZ3A==",
+  "dgSpecHash": "xWkPaIjypv1OdXcEbGnrh8CgRC2cuKAxexNp6uz/utVu5QBOUnvm3YiZip33PQWy4JXYxwjYVPlv0g5paGc5Rw==",
   "success": true,
-  "projectFilePath": "D:\\Project ASP.NET Core MVC (.NET 6)\\GenZBook\\GenZBook\\GenZBook.csproj",
+  "projectFilePath": "D:\\Project ASP.NET Core MVC (.NET 6)\\GenZBook\\GenZBook\\GenZBookWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\myntd\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\myntd\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

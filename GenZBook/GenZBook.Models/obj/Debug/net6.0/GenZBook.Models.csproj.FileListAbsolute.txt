@@ -1,0 +1,12 @@
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\bin\Debug\net6.0\GenZBook.Models.deps.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\bin\Debug\net6.0\GenZBook.Models.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\bin\Debug\net6.0\GenZBook.Models.pdb
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\obj\Debug\net6.0\GenZBook.Models.csproj.AssemblyReference.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\obj\Debug\net6.0\GenZBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\obj\Debug\net6.0\GenZBook.Models.AssemblyInfoInputs.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\obj\Debug\net6.0\GenZBook.Models.AssemblyInfo.cs
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\obj\Debug\net6.0\GenZBook.Models.csproj.CoreCompileInputs.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\obj\Debug\net6.0\GenZBook.Models.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\obj\Debug\net6.0\refint\GenZBook.Models.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\obj\Debug\net6.0\GenZBook.Models.pdb
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook.Models\obj\Debug\net6.0\ref\GenZBook.Models.dll
