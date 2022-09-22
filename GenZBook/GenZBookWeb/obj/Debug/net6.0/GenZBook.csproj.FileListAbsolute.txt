@@ -1,0 +1,1665 @@
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\appsettings.Development.json
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\appsettings.json
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.staticwebassets.runtime.json
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.exe
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.deps.json
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.runtimeconfig.json
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.pdb
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.csproj.AssemblyReference.cache
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.AssemblyInfoInputs.cache
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.AssemblyInfo.cs
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.csproj.CoreCompileInputs.cache
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.MvcApplicationPartsAssemblyInfo.cache
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.RazorAssemblyInfo.cache
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.RazorAssemblyInfo.cs
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\staticwebassets.build.json
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\staticwebassets.development.json
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\scopedcss\bundle\GenZBook.styles.css
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\scopedcss\projectbundle\GenZBook.bundle.scp.css
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.dll
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\refint\GenZBook.dll
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.pdb
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.genruntimeconfig.cache
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\ref\GenZBook.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\mscorlib.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\netstandard.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Console.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Core.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Data.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Memory.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Web.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Windows.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.MvcApplicationPartsAssemblyInfo.cs
+D:\NET Core - Practice\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.csproj.CopyComplete
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Humanizer.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\MessagePack.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Build.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Common.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET Core - Practice\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\appsettings.json
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.staticwebassets.runtime.json
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.exe
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.deps.json
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.runtimeconfig.json
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.pdb
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\mscorlib.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\netstandard.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Console.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Core.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Data.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Memory.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Web.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Windows.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Humanizer.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\MessagePack.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Build.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Common.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.csproj.AssemblyReference.cache
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.AssemblyInfoInputs.cache
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.AssemblyInfo.cs
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.RazorAssemblyInfo.cache
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.RazorAssemblyInfo.cs
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\scopedcss\bundle\GenZBook.styles.css
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\scopedcss\projectbundle\GenZBook.bundle.scp.css
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.csproj.CopyComplete
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\refint\GenZBook.dll
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.pdb
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.genruntimeconfig.cache
+D:\ASP.NET Core MVC - .NET6\GenZBook\GenZBook\obj\Debug\net6.0\ref\GenZBook.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\appsettings.Development.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\appsettings.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.staticwebassets.runtime.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.exe
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.deps.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.runtimeconfig.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\GenZBook.pdb
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\netstandard.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Console.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Core.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Data.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Web.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Humanizer.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\MessagePack.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Common.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.csproj.AssemblyReference.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.AssemblyInfoInputs.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.AssemblyInfo.cs
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.csproj.CoreCompileInputs.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.MvcApplicationPartsAssemblyInfo.cs
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.MvcApplicationPartsAssemblyInfo.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.RazorAssemblyInfo.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.RazorAssemblyInfo.cs
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\scopedcss\bundle\GenZBook.styles.css
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\scopedcss\projectbundle\GenZBook.bundle.scp.css
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.csproj.CopyComplete
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\refint\GenZBook.dll
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.pdb
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\GenZBook.genruntimeconfig.cache
+D:\Project ASP.NET Core MVC (.NET 6)\GenZBook\GenZBook\obj\Debug\net6.0\ref\GenZBook.dll

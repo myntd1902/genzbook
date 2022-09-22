@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenZBookWeb", "GenZBook\GenZBookWeb.csproj", "{2A2DB2EF-B91B-42B8-99E4-76F4410343DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenZBook.DataAccess", "GenZBook.DataAccess\GenZBook.DataAccess.csproj", "{4AD2A9AB-817B-4019-9AD3-5BD9F12FED81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenZBook.DataAccess", "GenZBook.DataAccess\GenZBook.DataAccess.csproj", "{4AD2A9AB-817B-4019-9AD3-5BD9F12FED81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenZBook.Models", "GenZBook.Models\GenZBook.Models.csproj", "{AF1B53DE-0A32-427A-BD02-EEC5E87330D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenZBook.Models", "GenZBook.Models\GenZBook.Models.csproj", "{AF1B53DE-0A32-427A-BD02-EEC5E87330D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenZBook.Utility", "GenZBook.Utility\GenZBook.Utility.csproj", "{B0639E03-C58E-4421-99D5-C70AAFFB8485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenZBook.Utility", "GenZBook.Utility\GenZBook.Utility.csproj", "{B0639E03-C58E-4421-99D5-C70AAFFB8485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenZBookWeb", "GenZBookWeb\GenZBookWeb.csproj", "{03B23CFE-BDAC-41A0-8325-67488473EBFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2A2DB2EF-B91B-42B8-99E4-76F4410343DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A2DB2EF-B91B-42B8-99E4-76F4410343DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A2DB2EF-B91B-42B8-99E4-76F4410343DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A2DB2EF-B91B-42B8-99E4-76F4410343DA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4AD2A9AB-817B-4019-9AD3-5BD9F12FED81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4AD2A9AB-817B-4019-9AD3-5BD9F12FED81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD2A9AB-817B-4019-9AD3-5BD9F12FED81}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{B0639E03-C58E-4421-99D5-C70AAFFB8485}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0639E03-C58E-4421-99D5-C70AAFFB8485}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0639E03-C58E-4421-99D5-C70AAFFB8485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B23CFE-BDAC-41A0-8325-67488473EBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B23CFE-BDAC-41A0-8325-67488473EBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B23CFE-BDAC-41A0-8325-67488473EBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B23CFE-BDAC-41A0-8325-67488473EBFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
