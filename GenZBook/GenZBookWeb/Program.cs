@@ -1,4 +1,6 @@
 using GenZBook.DataAccess;
+using GenZBook.DataAccess.Repository;
+using GenZBook.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +11,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlSer
     builder.Configuration.GetConnectionString("Defaultconnection"),
     data => data.MigrationsAssembly("GenZBook.DataAccess")
     ));
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 var app = builder.Build();
