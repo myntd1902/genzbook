@@ -29,12 +29,12 @@ namespace GenZBook.Controllers
         public IActionResult Create(Category obj)
         {
             if (obj.Name == obj.DisplayOrder.ToString())
-                ModelState.AddModelError("Name", "Thứ tự không thể trùng với tên");
+                ModelState.AddModelError("Name", "Thứ tự hiển thị không được trùng với tên");
             if (ModelState.IsValid)
             {
                 _unitOfWork.Category.Add(obj);
                 _unitOfWork.Save();
-                TempData["success"] = "Thêm sản phẩm thành công!";
+                TempData["success"] = "Thêm thể loại thành công!";
                 return RedirectToAction("Index");
             }
             return View(obj);
@@ -56,12 +56,12 @@ namespace GenZBook.Controllers
         public IActionResult Edit(Category obj)
         {
             if (obj.Name == obj.DisplayOrder.ToString())
-                ModelState.AddModelError("Name", "Thứ tự không thể trùng với tên");
+                ModelState.AddModelError("Name", "Thứ tự hiển thị không được trùng với tên");
             if (ModelState.IsValid)
             {
                 _unitOfWork.Category.Update(obj);
                 _unitOfWork.Save();
-                TempData["success"] = "Cập nhật sản phẩm thành công!";
+                TempData["success"] = "Cập nhật thể loại thành công!";
                 return RedirectToAction("Index");
             }
             return View(obj);
@@ -87,7 +87,7 @@ namespace GenZBook.Controllers
                 return NotFound();
             _unitOfWork.Category.Remove(obj);
             _unitOfWork.Save();
-            TempData["success"] = "Xóa sản phẩm thành công!";
+            TempData["success"] = "Xóa thể loại thành công!";
             return RedirectToAction("Index");    
         }
     }
